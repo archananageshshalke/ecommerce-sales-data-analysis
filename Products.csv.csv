@@ -1,0 +1,10 @@
+prod_id,product_name,category,prod_Price
+101,Basic Plan,Subscription,499
+102,Pro Plan,subscription,999
+103,Premium plan,Subscription,1999
+104,Add-on A,Addon,199
+106,Tool X,Tool,799
+107,Tool Y,tool,899
+108,Service A,Service,1499
+109,Service B,Service,UNKNOWN
+110,Service C,UNKNOWN,1799
